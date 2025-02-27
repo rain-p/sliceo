@@ -1,0 +1,60 @@
+public class SliceOHeaven {
+   private String storeName;
+   private String storeAddress;
+   private String storeEmail;
+   private String storePhone;
+   private String storeMenu;
+   private String pizzaIngredients;
+   private double pizzaPrice;
+   private String sides;
+   private String drinks;
+   private String orderID;
+   private double orderTotal;
+   private static final String DEF_ORDER_ID = "DEF-SOH-099";
+   private static final String DEF_PIZZA_INGREDIENTS = "Mozzarella Cheese";
+   private static final double DEF_ORDER_TOTAL = 15.0;
+
+   public SliceOHeaven() {
+      throw new Error("Unresolved compilation problem: \n\tThe public type SliceOHeaven must be defined in its own file\n");
+   }
+
+   public SliceOHeaven(String var1, String var2, double var3) {
+      throw new Error("Unresolved compilation problem: \n\tThe public type SliceOHeaven must be defined in its own file\n");
+   }
+
+   public String getOrderID() {
+      throw new Error("Unresolved compilation problem: \n");
+   }
+
+   public void setOrderID(String var1) {
+      throw new Error("Unresolved compilation problem: \n");
+   }
+
+   public double getOrderTotal() {
+      throw new Error("Unresolved compilation problem: \n");
+   }
+
+   public void setOrderTotal(double var1) {
+      throw new Error("Unresolved compilation problem: \n");
+   }
+
+   public void takeOrder() {
+      throw new Error("Unresolved compilation problem: \n");
+   }
+
+   public void makePizza() {
+      throw new Error("Unresolved compilation problem: \n");
+   }
+
+   private void printReceipt() {
+      throw new Error("Unresolved compilation problem: \n");
+   }
+
+   public void processOrder() {
+      throw new Error("Unresolved compilation problem: \n");
+   }
+
+   public static void main(String[] var0) {
+      throw new Error("Unresolved compilation problem: \n");
+   }
+}
